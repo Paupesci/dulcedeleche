@@ -1,0 +1,33 @@
+h1{
+	font-family:'Permanent Marker', cursive;;
+	font-size: 500%
+
+}
+
+p{
+	font-family: 'Signika', sans-serif;;
+	font-size: 200%;
+
+}
+
+div{
+	border: 5px solid black;
+}
+
+.boxmodel{
+	
+	border:5px solid #D68BA2;
+	display: inline-block;
+	padding: 20px 40px 20px 40px
+	margin:0px 40px 10px 0px;
+
+
+
+}
+a{
+	font-family: 'Signika', sans-serif;
+	text-decoration: none;
+	color: black;
+
+}
+
